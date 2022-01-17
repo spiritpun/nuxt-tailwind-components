@@ -7,4 +7,6 @@ Vuex Store option is implemented in the Nuxt.js framework.
 
 Creating a file in this directory automatically activates the option in the framework.
 
+this is project collection component of custom tailwindcss component.
+
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/vuex-store).
